@@ -1,6 +1,6 @@
-# HTML-CSS Projects
+# HTML - CSS - JavaScript Projects
 
-My first project using HTML and CSS with Bootstrap is making a CV.
+- My first project using HTML and CSS with Bootstrap is making a CV using HTML and CSS with Bootstrap.
 
 You can view the sourcecode [here](https://github.com/NabillaAizuddin/HTML-CSS-Projects/blob/e64c7268189f5b6b765fe2fa12b562a6067587e1/cv-with-bootstrap.html).
 
