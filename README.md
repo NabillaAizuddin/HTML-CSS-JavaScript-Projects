@@ -9,3 +9,7 @@
 ## - 2048 Game using pure HTML, CSS, and JavaScript
 
   Live at [https://nabillaaizuddin.github.io/2048/](https://nabillaaizuddin.github.io/2048/)
+
+## - Landing page using HTML, CSS, and JavaScript
+
+  Click here to view [https://nabillaaizuddin.github.io](https://nabillaaizuddin.github.io)
