@@ -13,3 +13,4 @@
 ## - Landing page using HTML, CSS, and JavaScript
 
   Click here to view [https://nabillaaizuddin.github.io](https://nabillaaizuddin.github.io)
+  - Press ```Ctrl + 0``` for original scale 
