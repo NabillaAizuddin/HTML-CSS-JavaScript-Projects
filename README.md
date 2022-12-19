@@ -9,7 +9,7 @@
 ## - 2048 Game using pure HTML, CSS, and JavaScript
 
   Live at [https://nabillaaizuddin.github.io/2048/](https://nabillaaizuddin.github.io/2048/)
-  - The code can be view under the repository named 2048.
+  - The code can be viewed under the repository named 2048.
 
 ## - Landing page using HTML, CSS, and JavaScript
 
